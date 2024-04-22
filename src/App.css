@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+div {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.container {
+  border: 1px solid #eee;
+  border-radius: 1rem;
+  display: block;
+  padding: 1rem;
+}
